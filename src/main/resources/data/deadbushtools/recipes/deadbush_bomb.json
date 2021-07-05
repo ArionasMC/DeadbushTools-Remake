@@ -1,0 +1,23 @@
+{
+     "type": "minecraft:crafting_shaped",
+     "pattern": [
+          "G#G",
+          "#T#",
+          "G#G"
+     ],
+     "key": {
+          "#": {
+               "item": "minecraft:dead_bush"
+          },
+          "T": {
+               "item": "minecraft:tnt"
+          },
+          "G": {
+               "item": "minecraft:gunpowder"
+          }
+     },
+     "result": {
+          "item": "deadbushtools:deadbush_bomb",
+          "count": 1
+     }
+}

@@ -1,0 +1,23 @@
+{
+     "type": "minecraft:crafting_shaped",
+     "pattern": [
+          "SSS",
+          "#G#",
+          "SSS"
+     ],
+     "key": {
+          "#": {
+               "item": "minecraft:dead_bush"
+          },
+          "S": {
+               "item": "minecraft:sand"
+          },
+          "G": {
+               "item": "minecraft:gunpowder"
+          }
+     },
+     "result": {
+          "item": "deadbushtools:deadbush_rain",
+          "count": 1
+     }
+}

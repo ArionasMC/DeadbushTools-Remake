@@ -1,0 +1,23 @@
+{
+     "itemGroup.deadbushTab": "Deadbush Tools Tab",
+
+     "item.deadbushtools.deadbush_helmet": "Deadbush Helmet",
+     "item.deadbushtools.deadbush_chestplate": "Deadbush Chestplate",
+     "item.deadbushtools.deadbush_leggings": "Deadbush Leggings",
+     "item.deadbushtools.deadbush_boots": "Deadbush Boots",
+     "item.deadbushtools.deadbush_sword": "Deadbush Sword",
+     "item.deadbushtools.deadbush_battle_axe": "Deadbush Battle Axe",
+     "item.deadbushtools.deadbush_katana": "Deadbush Katana",
+     "item.deadbushtools.deadbush_knife": "Deadbush Knife",
+     "item.deadbushtools.deadbush_nunchaku": "Deadbush Nunchaku",
+     "item.deadbushtools.deadbush_axe": "Deadbush Axe",
+     "item.deadbushtools.deadbush_pickaxe": "Deadbush Pickaxe",
+     "item.deadbushtools.deadbush_shovel": "Deadbush Shovel",
+     "item.deadbushtools.deadbush_hoe": "Deadbush Hoe",
+     "item.deadbushtools.deadbush_rain": "Deadbush Rain",
+     "item.deadbushtools.deadbush_bomb": "Deadbush Bomb",
+     "item.deadbushtools.deadbush_spear": "Deadbush Spear",
+     "item.deadbushtools.deadbush_mob_spawn_egg": "Spawn Deadbush Mob",
+
+     "entity.deadbushtools.deadbush_mob": "Deadbush Mob"
+}

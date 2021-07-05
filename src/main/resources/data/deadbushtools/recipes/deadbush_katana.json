@@ -1,0 +1,20 @@
+{
+     "type": "minecraft:crafting_shaped",
+     "pattern": [
+          "#",
+          "#",
+          "l"
+     ],
+     "key": {
+          "#": {
+               "item": "minecraft:dead_bush"
+          },
+          "l": {
+               "item": "minecraft:leather"
+          }
+     },
+     "result": {
+          "item": "deadbushtools:deadbush_katana",
+          "count": 1
+     }
+}
